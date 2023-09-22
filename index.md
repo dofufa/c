@@ -1,8 +1,9 @@
-```
+---
 layout: default
 title: Chrome URLs
-```
-{{ page.title }}
+---
+
+# {{ page.title }}
 
 * [https://calculator.apps.chrome/][crx_calc]
 
